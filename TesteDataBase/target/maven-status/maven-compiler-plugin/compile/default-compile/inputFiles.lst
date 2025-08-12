@@ -1,6 +1,8 @@
-D:\Arquivos 20-05-2022\Desktop\projetopoo\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\cliente\Cliente.java
-D:\Arquivos 20-05-2022\Desktop\projetopoo\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\DataSourceFactory.java
-D:\Arquivos 20-05-2022\Desktop\projetopoo\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\cliente\ClienteRepository.java
-D:\Arquivos 20-05-2022\Desktop\projetopoo\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\IRepository.java
-D:\Arquivos 20-05-2022\Desktop\projetopoo\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\ProjectEntity.java
-D:\Arquivos 20-05-2022\Desktop\projetopoo\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\Repository.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\DataSourceFactory.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\ProjectEntity.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\Repository.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\item\Item.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\item\ItemRepository.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\cliente\Cliente.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\repository\IRepository.java
+C:\Users\fgabr\OneDrive\Documentos\NetBeansProjects\TCD--POO\TesteDataBase\src\main\java\io\github\guisso\javasepersistencewithhibernateorm\beta\cliente\ClienteRepository.java
